@@ -1,0 +1,6 @@
+name: PermissionAPI
+version: 0.1
+main: de.fynn.sco.permissionapi.PermissionAPIPlugin
+api-version: 1.16
+prefix: PermissionAPI
+authors: [ Freddyblitz ]
